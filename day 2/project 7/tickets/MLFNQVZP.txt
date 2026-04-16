@@ -3,7 +3,12 @@ User Name: Tobias
 Submitted: 2026-02-09T22:01:57.513+01:00
 
 Description:
-My laptop fell down and is broken now
+My laptop fell down and is broken now.
+User reports the laptop caught fire.
 
-Status: Open
+Status: Escalated
 Prio: Urgent
+
+Activity Log:
+2026-02-09T22:01:57.513+01:00 - Ticket created (Urgent). Initial report: "My laptop fell down and is broken now."
+2026-04-16T10:30:00.000+01:00 - User reported: "Laptop caught fire." Advised to evacuate and contact emergency services if device is burning. Escalated to human IT technician and Facilities/Security. Ticket marked Escalated (Urgent).
